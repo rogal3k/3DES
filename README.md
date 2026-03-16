@@ -1,3 +1,7 @@
+Do instalacji biblioteki:
+W terminalu MSYS2:
+pacman -S mingw-w64-ucrt-x86_64-gcc mingw-w64-ucrt-x86_64-openssl
+
 tasks.json:
 {
 	"tasks": [
