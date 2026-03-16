@@ -1,0 +1,12 @@
+# Skompilowane pliki
+*.exe
+*.o
+output/
+
+# Pliki wejściowe/wyjściowe (duże pliki wideo)
+*.mp4
+*.enc
+wyniki.txt
+
+# Konfiguracja edytora
+.vscode/
