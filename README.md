@@ -28,3 +28,6 @@ tasks.json:
 	],
 	"version": "2.0.0"
 }
+
+Do kompilacji:
+g++ -O3 main.cpp -o main.exe -lssl -lcrypto
